@@ -1,0 +1,1 @@
+INSERT INTO users (id, name, age, breed, net_worth) VALUES (1, "Maru", 3, "Scottish Fold", 1000000);
