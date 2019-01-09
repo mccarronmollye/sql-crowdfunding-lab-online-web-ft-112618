@@ -8,7 +8,7 @@ end_date INTEGER
 );
 
 CREATE TABLE users (
-id INTEGER PRIMARY KEY,
+id INTEGER PRIMARY KEY
 -- title TEXT,
 -- category TEXT,
 -- funding_goal INTEGER,
