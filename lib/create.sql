@@ -1,4 +1,4 @@
 CREATE TABLE projects (
-id INTEGER PRIMARY KEY
-title 
+id INTEGER PRIMARY KEY,
+title TEXT
 );
